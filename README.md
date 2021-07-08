@@ -1,5 +1,5 @@
 # PRO2
-Practica de la asignatura PRO2, cuatrimestre de primavera del curso 2018-2019.
+Practica de la asignatura PRO2 (programación 2), cuatrimestre de primavera del curso 2018-2019.
 
 
 **_Codigo_**: codigo fuente de los archivos de la practica.
